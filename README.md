@@ -1,7 +1,7 @@
 # Sample iOS Application
 <br/>
 
-----------Demo project-----------
+----------Assignment project-----------
 <br/>
 // XCode Version - 6.2
 // Tested on - iPhone 4, 5, 6 (iOS 8.2)
