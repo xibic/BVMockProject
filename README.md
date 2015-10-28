@@ -1,4 +1,4 @@
-# BVMockProject
+# Sample iOS Application
 <br/>
 
 ----------Demo project-----------
