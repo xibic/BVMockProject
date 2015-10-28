@@ -1,0 +1,26 @@
+//
+//  Prefix.pch
+//  BVMockProject
+//
+//  Created by xibic on 10/26/15.
+//  Copyright (c) 2015 BordingVista. All rights reserved.
+//
+
+#ifndef BVMockProject_Prefix_pch
+#define BVMockProject_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "Constants.h"
+#import "UIColor+FlatColors.h"
+#import "UIImage+Addtionals.h"
+
+#import "XIBActivityIndicator.h"
+
+#import "DALManager.h"
+
+#endif
